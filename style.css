@@ -13,7 +13,7 @@ background-color: black;
 color: white;
 }
 
-#status
+#status, #number_of_objects
 {
 font-size: 18px;
 }
